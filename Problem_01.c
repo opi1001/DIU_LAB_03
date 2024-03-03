@@ -1,3 +1,6 @@
+/* Write a program to store 10 integers using an array and find out
+the summation and the average of the numbers. Display the numbers,
+summation and average separately.*/
 
  #include<stdio.h>
 int main()
