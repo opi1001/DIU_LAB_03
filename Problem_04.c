@@ -1,3 +1,4 @@
+ //Write a program to marge two array and make a single array.
 
   #include <stdio.h>
 int main()
