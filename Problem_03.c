@@ -1,3 +1,6 @@
+// Write a program to find out the summation of even numbers and
+//odd numbers from a given list of numbers in an array.
+
 #include <stdio.h>
 int main()
 {
